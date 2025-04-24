@@ -4,9 +4,9 @@
     "abbr": "DST",
     "offset": -13,
     "isdst": false,
-    "text": "(UTC-12:00) International Date Line West",
+    "text": "(UTC-13:00) International Date Line West",
     "utc": [
-      "Etc/GMT+12"
+      "Etc/GMT+13"
     ]
   },
   {
