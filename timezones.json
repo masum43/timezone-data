@@ -927,8 +927,8 @@
   },
   {
     "value": "Iran Standard Time",
-    "abbr": "IDT",
-    "offset": 4.5,
+    "abbr": "IRST",
+    "offset": 3.5,
     "isdst": true,
     "text": "(UTC+03:30) Tehran",
     "utc": [
