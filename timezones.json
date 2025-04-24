@@ -2,7 +2,7 @@
   {
     "value": "Dateline Standard Time",
     "abbr": "DST",
-    "offset": -12,
+    "offset": -13,
     "isdst": false,
     "text": "(UTC-12:00) International Date Line West",
     "utc": [
